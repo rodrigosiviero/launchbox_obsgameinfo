@@ -1,0 +1,9 @@
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\OBSGameInfo.dll
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\OBSGameInfo.pdb
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\Newtonsoft.Json.dll
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\Unbroken.LaunchBox.Plugins.dll
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\Newtonsoft.Json.pdb
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\bin\Release\Newtonsoft.Json.xml
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\obj\Release\OBSGameInfo.csprojResolveAssemblyReference.cache
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\obj\Release\OBSGameInfo.dll
+C:\Users\sur0x\documents\visual studio 2017\Projects\OBSGameInfo\OBSGameInfo\obj\Release\OBSGameInfo.pdb
