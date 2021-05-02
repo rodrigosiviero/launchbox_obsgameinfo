@@ -42,8 +42,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="Unbroken.LaunchBox.Plugins">
-      <HintPath>..\..\..\..\..\LaunchBox\Metadata\Unbroken.LaunchBox.Plugins.dll</HintPath>
+    <Reference Include="Unbroken.LaunchBox.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=558191e84f56affc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\LaunchBox\Core\Unbroken.LaunchBox.Plugins.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
